@@ -41,3 +41,16 @@ ul li:last-child {
     color: grey;
     font-weight: 800;
 }
+
+[type=I] li:first-of-type {
+    color: teal;
+}
+
+[type=I] li:nth-child(2) {
+    color: limegreen;
+    font-weight: 800;
+}
+
+[type=I] li:last-child {
+    color: green;
+}
