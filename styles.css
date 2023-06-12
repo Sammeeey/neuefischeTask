@@ -10,3 +10,8 @@ h1, h2 {
 ul li:nth-last-child(-n+2), #braun {
     font-style: italic;
 }
+
+#blau {
+    color: blue;
+    font-weight: 800;
+}
