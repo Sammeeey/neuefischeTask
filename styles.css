@@ -1,0 +1,12 @@
+/* Fonts */
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    font-weight: 800;
+}
+
+.sonnenfarben {
+    margin-left: 4em;
+}
