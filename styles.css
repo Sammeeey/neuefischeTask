@@ -15,3 +15,10 @@ ul li:nth-last-child(-n+2), #braun {
     color: blue;
     font-weight: 800;
 }
+
+#pink {
+    color: pink
+}
+/* #farben-list li:nth-child(2) {
+    color: pink;
+} */
