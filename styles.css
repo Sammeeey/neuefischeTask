@@ -19,9 +19,19 @@ ul li:nth-last-child(-n+2), #braun {
 #pink {
     color: pink
 }
-/* #farben-list li:nth-child(2) {
-    color: pink;
-} */
+
+ul li:first-of-type {
+    color: red;
+    font-weight: 800;
+}
+
+ul li:nth-child(3) {
+    color: orange;
+}
+
+ul li:last-child {
+    color: yellow;
+}
 
 #braun {
     color: brown
