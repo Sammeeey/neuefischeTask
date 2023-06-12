@@ -22,3 +22,7 @@ ul li:nth-last-child(-n+2), #braun {
 /* #farben-list li:nth-child(2) {
     color: pink;
 } */
+
+#braun {
+    color: brown
+}
