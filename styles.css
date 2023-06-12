@@ -36,3 +36,8 @@ ul li:last-child {
 #braun {
     color: brown
 }
+
+#braun + li {
+    color: grey;
+    font-weight: 800;
+}
