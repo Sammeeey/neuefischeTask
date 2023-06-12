@@ -7,6 +7,6 @@ h1, h2 {
     font-weight: 800;
 }
 
-ul li:nth-last-child(-n+2) {
+ul li:nth-last-child(-n+2), #braun {
     font-style: italic;
 }
